@@ -32,6 +32,7 @@ Step-by-step threat hunting, SPL breakdowns, detection logic, and analyst method
 - [Progress](#-progress)
 - [Contributing](#-contributing)
 - [Connect With Me](#-connect-with-me)
+- [Why This Repository Exists](#-why-this-repository-exists)
 
 ---
 
