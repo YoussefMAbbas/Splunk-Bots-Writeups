@@ -38,7 +38,7 @@ Step-by-step threat hunting, SPL breakdowns, detection logic, and analyst method
 
 ## 📌 About BOTS
 
-**Boss of the SOC (BOTS)** is a blue-team CTF-style challenge created by :contentReference[oaicite:0]{index=0}.
+**Boss of the SOC (BOTS)** is a blue-team CTF-style challenge created by [Splunk](https://bots.splunk.com).
 
 It simulates realistic enterprise attack scenarios where analysts must investigate logs using:
 
